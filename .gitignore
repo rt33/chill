@@ -78,6 +78,7 @@ browserify-cache.json
 
 # Node
 node_modules
+yarn-error.log
 
 # next
 .next
