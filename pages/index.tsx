@@ -1,10 +1,7 @@
-import React from "react";
-import { Query } from "react-apollo";
-import gql from "graphql-tag";
+import React from "react"
+import { Query } from "react-apollo"
+import gql from "graphql-tag"
 
 export default () => {
-  return (
-    <div>hello</div>
-  )
+  return <div>hello</div>
 }
-
